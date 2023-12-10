@@ -10,7 +10,7 @@ const ProjectPage = () => {
         width={500} height={500} />
          */}
         <a href="https://potato-market.vercel.app/">
-          <img src="/images/p1.jpg" />
+          <img src="/images/p1.jpg" width={550} height={(400 / 800) * 300} />
         </a>
 
         <p> 92015075 김평안</p>

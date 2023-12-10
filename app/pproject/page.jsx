@@ -24,8 +24,24 @@ const ProjectPage = () => {
         </Link>
       </div>
 
-      <div className="mb-10 bg-blue-100 p-4 m-4 rounded-lg">
-        <p className="">3rd</p>
+      <div className="mb-10 bg-blue-100 p-4 m-4 rounded-lg text-3xl">
+        3nd{" "}
+        <Link
+          href="https://shopping-tan-two.vercel.app/"
+          className="text-xl text-blue-700 font-bold"
+        >
+          https://sgh01.vercel.app/
+        </Link>
+      </div>
+
+      <div className="mb-10 bg-blue-100 p-4 m-4 rounded-lg text-3xl">
+        4th{" "}
+        <Link
+          href="https://crud1-kohl.vercel.app//"
+          className="text-xl text-blue-700 font-bold"
+        >
+          https://sgh01.vercel.app/
+        </Link>
       </div>
     </>
   )
